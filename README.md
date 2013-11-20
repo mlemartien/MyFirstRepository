@@ -1,4 +1,5 @@
 MyFirstRepository
 =================
 
-Just a simple repository to test GitHub functionatlities
+Just a simple repository to test GitHub functionalities
+ 
